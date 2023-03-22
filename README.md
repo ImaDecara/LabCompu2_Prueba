@@ -2,11 +2,11 @@
 
 Ejemplo de Readme
 
-##Autores
+## Autores
 - **Decara**, Imanol
 
 
-##Contenido
+## Contenido
 Este readme es de prueba para practicar Marckdown.
 
 [Aula Vietual     (https://presencial.ucc.edu.ar/my/)
